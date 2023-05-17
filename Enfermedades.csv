@@ -1,0 +1,65 @@
+﻿
+Si;Si;Si;Si;Si;Si;Influenza
+Si;Si;Si;Si;Si;No;Dengue
+Si;Si;Si;Si;No;Si;Gripe
+Si;Si;Si;Si;No;No;Neumonía
+Si;Si;Si;No;Si;Si;Meningitis
+Si;Si;Si;No;Si;No;Chikungunya
+Si;Si;Si;No;No;Si;Virus del Nilo Occidental
+Si;Si;Si;No;No;No;Rubéola
+Si;Si;No;Si;Si;Si;Sarampión
+Si;Si;No;Si;Si;No;Varicela
+Si;Si;No;Si;No;Si;Herpes zóster
+Si;Si;No;Si;No;No;Fiebre maculosa de las Montañas Rocosas
+Si;Si;No;No;Si;Si;Mononucleosis
+Si;Si;No;No;Si;No;Granulomatosis de Wegener
+Si;Si;No;No;No;Si;Linfoma
+Si;Si;No;No;No;No;Virus del Zika
+Si;No;Si;Si;Si;Si;Paperas
+Si;No;Si;Si;Si;No;Sarcoidosis
+Si;No;Si;Si;No;Si;Malaria
+Si;No;Si;Si;No;No;Fiebre del dengue grave
+Si;No;Si;No;Si;Si;Fiebre tifoidea
+Si;No;Si;No;Si;No;Tifus
+Si;No;Si;No;No;Si;Asma
+Si;No;Si;No;No;No;Fiebre Q
+Si;No;No;Si;Si;Si;Brucelosis
+Si;No;No;Si;Si;No;Fiebre del Nilo Occidental
+Si;No;No;Si;No;Si;Vasculitis
+Si;No;No;Si;No;No;Cáncer
+Si;No;No;No;Si;Si;Escarlatina
+Si;No;No;No;Si;No;Síndrome de shock tóxico
+Si;No;No;No;No;Si;Enfermedad de Hodgkin
+Si;No;No;No;No;No;Enfermedad de Castleman
+No;Si;Si;Si;Si;Si;Síndrome de Guillain-Barré
+No;Si;Si;Si;Si;No;Leptospirosis
+No;Si;Si;Si;No;Si;Fibrosis quística
+No;Si;Si;Si;No;No;Anemia de células falciformes
+No;Si;Si;No;Si;Si;VIH / SIDA
+No;Si;Si;No;Si;No;Talasemia
+No;Si;Si;No;No;Si;Leucemia
+No;Si;Si;No;No;No;Fibrosis quística
+No;Si;No;Si;Si;Si;Polimialgia reumática
+No;Si;No;Si;Si;No;Enfermedad de Kawasaki
+No;Si;No;Si;No;Si;Arteritis de células gigantes
+No;Si;No;Si;No;No;Enfermedad pulmonar asociada a polvo de madera
+No;Si;No;No;Si;Si;Enfermedad de Lyme
+No;Si;No;No;Si;No;Enfermedad pulmonar intersticial
+No;Si;No;No;No;Si;Lupus eritematoso sistémico
+No;Si;No;No;No;No;Artritis reumatoide
+No;No;Si;Si;Si;Si;Enfermedad pulmonar obstructiva crónica (EPOC)
+No;No;Si;Si;Si;No;Aspergilosis pulmonar invasiva
+No;No;Si;Si;No;Si;Bronquitis crónica
+No;No;Si;Si;No;No;Hepatitis C
+No;No;Si;No;Si;Si;Diabetes mellitus
+No;No;Si;No;Si;No;Neumonitis por hipersensibilidad
+No;No;Si;No;No;Si;Enfermedad pulmonar asociada a la hipersensibilidad al polvo de aves
+No;No;Si;No;No;No;Enfermedad pulmonar asociada a la exposición a metales
+No;No;No;Si;Si;Si;Insuficiencia cardíaca
+No;No;No;Si;Si;No;Encefalitis
+No;No;No;Si;No;Si;Enfermedad de Addison
+No;No;No;Si;No;No;Hepatitis B
+No;No;No;No;Si;Si;Enfermedad coronaria
+No;No;No;No;Si;No;Hipotiroidismo
+No;No;No;No;No;Si;Enfermedad pulmonar asociada a la hipersensibilidad al polvo de tóner
+No;No;No;No;No;No;No tiene enfermedad
